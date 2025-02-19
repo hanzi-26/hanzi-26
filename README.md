@@ -2,7 +2,7 @@
 I'm Han LI (李涵), an edge computing explorer.
 - 🪪 **MS Student** at [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html), 9/2024.
 - 🎓  [United International College](https://www.uic.edu.cn/en/) - B.S. in Computer Science and Technology. **GPA: 3.36/4.0.
-- 🧸 Internship: **[ZCCN Info](http://zccninfo.com/)** SDE, 2022 -> **[CGS](https://www.cgs.gov.cn/)** AE, 2022 -> **[PolyU](https://www.polyu.edu.hk/)** RA
+- 🧸 Internship: **[ZCCN Info](http://zccninfo.com/)** SDE, 2022 -> **[CGS](https://www.cgs.gov.cn/)** AE, 2022 -> **[PolyU](https://www.polyu.edu.hk/)** RA, 2025
 - 🦾 TypeScript / JavaScript / Python / Java / C++ / Matlab / Latex
 - 📨 Email me at: [hanzi8888@126.com](mailto:hanzi8888@126.com)
 
