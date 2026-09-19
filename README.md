@@ -1,7 +1,7 @@
 ## Hi there 👋🏻 
 I'm Han LI (李涵), an edge computing explorer.
 
-- 🎓  [Renmin University of China]([https://ruc.edu.cn](https://www.ruc.edu.cn/)) - Phd. in Electronics and Information Enginnering. 
+- 🎓  [Renmin University of China]((https://www.ruc.edu.cn/)) - Phd. in Electronics and Information Enginnering. 
 - 🎓  [Hong Kong Baptist University](https://www.hkbu.edu.hk/en.html) - M.S. in Information Technology Management. **GPA: 3.6/4.0.
 - 🎓  [United International College](https://www.uic.edu.cn/en/) - B.S. in Computer Science and Technology. **GPA: 3.36/4.0.
 - 🧸 Internship: **[ZCCN Info](http://zccninfo.com/)** SDE, 2022 -> **[CGS](https://www.cgs.gov.cn/)** AE, 2022 -> **[PolyU](https://www.polyu.edu.hk/)** RA, 2025
